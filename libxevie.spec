@@ -17,6 +17,7 @@ BuildRequires: libxext-devel >= 1.0.0
 BuildRequires: x11-proto-devel >= 1.0.0
 BuildRequires: x11-util-macros >= 1.0.1
 
+BuildRoot: %{_tmppath}/%{name}-root
 
 %description
 X Event Interceptor Library.
