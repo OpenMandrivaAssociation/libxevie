@@ -51,7 +51,6 @@ Development files for %{name}.
 %files -n %{develname}
 %defattr(-,root,root)
 %{_libdir}/libXevie.so
-%{_libdir}/libXevie.la
 %{_libdir}/pkgconfig/xevie.pc
 %{_includedir}/X11/extensions/Xevie.h
 %{_mandir}/man3/Xevie*.3*
