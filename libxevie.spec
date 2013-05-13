@@ -6,7 +6,7 @@
 Name: libxevie
 Summary:  X Event Interceptor Library
 Version: 1.0.3
-Release: %mkrel 4
+Release: 5
 Group: Development/X11
 License: MIT
 URL: http://xorg.freedesktop.org
@@ -17,7 +17,6 @@ BuildRequires: pkgconfig(xext) >= 1.0.0
 BuildRequires: x11-proto-devel >= 1.0.0
 BuildRequires: x11-util-macros >= 1.0.1
 
-BuildRoot: %{_tmppath}/%{name}-root
 
 %description
 X Event Interceptor Library.
