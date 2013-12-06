@@ -5,7 +5,7 @@
 Summary:	X Event Interceptor Library
 Name:		libxevie
 Version:	1.0.3
-Release:	9
+Release:	10
 Group:		Development/X11
 License:	MIT
 Url:		http://xorg.freedesktop.org
