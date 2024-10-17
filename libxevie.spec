@@ -8,7 +8,7 @@ Version:	1.0.3
 Release:	19
 Group:		Development/X11
 License:	MIT
-Url:		http://xorg.freedesktop.org
+Url:		https://xorg.freedesktop.org
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXevie-%{version}.tar.bz2
 
 BuildRequires:	pkgconfig(x11) >= 1.0.0
